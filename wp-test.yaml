@@ -1,0 +1,5 @@
+Resources:
+  WPInstance:
+    Type: AWS::EC2::Instance
+    Properties: 
+      ImageId: ami-09ef4fc0754f6fa46
